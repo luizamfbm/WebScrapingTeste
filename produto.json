@@ -1,0 +1,83 @@
+{
+  "title": "Rubber Duck MK Ultra",
+  "brand": "Duck Makers Inc.",
+  "categories": [
+    "Commercia",
+    "Health & Care",
+    "Bath",
+    "Rubber Ducks"
+  ],
+  "description": "Rubber ducks are the ultimate necessity for your bath. These duck-dings have been a popular source of...",
+  "skus": [
+    {
+      "name": "Rubber Duck MK Ultra - Original",
+      "current_price": 12.68,
+      "old_price": 16.98,
+      "available": true
+    },
+    {
+      "name": "Rubber Duck MK Ultra - Summer Version",
+      "current_price": null,
+      "old_price": null,
+      "available": false
+    },
+    {
+      "name": "Rubber Duck MK Ultra - Batman Version",
+      "current_price": 18.98,
+      "old_price": null,
+      "available": true
+    }
+  ],
+  "properties": [
+    {
+      "label": "Color",
+      "value": "Various"
+    },
+    {
+      "label": "Material",
+      "value": "Rubber"
+    },
+    {
+      "label": "Shape",
+      "value": "Ducky"
+    },
+    {
+      "label": "Size",
+      "value": "Medium"
+    },
+    {
+      "label": "Weight",
+      "value": "394 g"
+    },
+    {
+      "label": "Radioactivity Level",
+      "value": "Low"
+    },
+    {
+      "label": "Warranty",
+      "value": "1 year"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Louisa Eliel",
+      "date": "28/07/2021",
+      "score": 4,
+      "text": "Very good rubber ducks, however I think they are a bit too big for me."
+    },
+    {
+      "name": "Kairo Josué",
+      "date": "12/05/2021",
+      "score": 1,
+      "text": "Péssima qualidade. Já não fazem patos de borracha como antigamente."
+    },
+    {
+      "name": "Victor Huey",
+      "date": "03/04/2021",
+      "score": 5,
+      "text": "Very good"
+    }
+  ],
+  "reviews_average_score": 3.3,
+  "url": "https://infosimples.com/vagas/desafio/commercia/product.html"
+}
